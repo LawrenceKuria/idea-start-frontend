@@ -15,7 +15,7 @@ export const Route = createRootRouteWithContext<RouterContext>()({
         content: 'Share, explore and build on the best startup ideas and side hustles',
       },
       {
-        title: 'IdeaStart - From ideas to reality',
+        title: 'StartIt - From ideas to reality',
       },
     ]
   }),

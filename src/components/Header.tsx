@@ -24,7 +24,7 @@ const Header = () => {
         
         <Link to="/" className="flex items-center">
           <Lightbulb className="w-8 h-8 text-yellow-400" />
-          <span className="ml-2 text-2xl font-bold text-black">IdeaStart</span>
+          <span className="ml-2 text-2xl font-bold text-black">StartIt</span>
         </Link>
 
         <nav className="flex items-center space-x-4">
