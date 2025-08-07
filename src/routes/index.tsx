@@ -25,7 +25,7 @@ function HomePage() {
 >
   <div className="flex flex-col items-start gap-4">
     <Lightbulb className="w-16 h-16 text-yellow-400" />
-    <h1 className="text-4xl font-bold text-gray-800">Welcome to IdeaStart</h1>
+    <h1 className="text-4xl font-bold text-gray-800">Welcome to StartIt</h1>
     <p className="text-gray-600 max-w-xs">
       Share, explore, and build on the best startup ideas and side hustles.
     </p>
